@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Collegeproject" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <style name="Theme.Collegeproject.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Collegeproject.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Collegeproject.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
